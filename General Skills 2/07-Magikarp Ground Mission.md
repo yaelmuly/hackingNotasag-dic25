@@ -6,7 +6,9 @@ Additional details will be available after launching your challenge instance.
 
 ## Solución.
 
-
+- me conecto al servidor me sale la primera parte de la flag
+- indago en el pwd y saco la segunda parte
+- me voy a directorio raiz y consigo la tercera parte
 
 ## Notas.
 
